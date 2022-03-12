@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<form action="" method="get"><table width="200" border="1">
+  
+ <table width="512" border="1">
+    <tr>
+      <th width="202" scope="row">Name</th>
+      <td width="294"><label for="textfield7"></label>
+        <input type="text" name="textfield7" id="textfield7" value="{{ data['username'] }}" /></td>
+    </tr>
+    <tr>
+      <th scope="row">Gender</th>
+      <td>{{ data['gender'] }}<label for="textfield6"></label>
+        <p>
+{#          <label>#}
+{#            <input type="radio" name="RadioGroup1" value="male" id="RadioGroup1_0" />#}
+{#            male</label>#}
+{#          <br />#}
+{#          <label>#}
+{#            <input type="radio" name="RadioGroup1" value="female" id="RadioGroup1_1" />#}
+{#            female</label>#}
+{#          <br />#}
+{#          <label>#}
+{#            <input type="radio" name="RadioGroup1" value="others" id="RadioGroup1_2" />#}
+{#            others</label>#}
+          <br />
+      </p></td>
+    </tr>
+    <tr>
+      <th scope="row">Place</th>
+      <td><label for="textfield5"></label>
+        <input type="text" name="textfield5" id="textfield5" value="{{ data['place'] }}" /></td>
+    </tr>
+    <tr>
+      <th scope="row">Post</th>
+      <td><label for="textfield4"></label>
+        <input type="text" name="textfield4" id="textfield4" value="{{ data['post'] }}"/></td>
+    </tr>
+    <tr>
+      <th scope="row">Pin</th>
+      <td><label for="textfield3"></label>
+        <input type="text" name="textfield3" id="textfield3" value="{{ data['pin'] }}" /></td>
+    </tr>
+    <tr>
+      <th scope="row">Photo</th>
+      <td><img src="{{ data['photo'] }}" height="100"width="100"> <label for="fileField"></label>
+{#        <input type="file" name="fileField" id="fileField" value="{{ data['photo'] }}"/>#}
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Phone No</th>
+      <td><label for="textfield"></label>
+      <input type="text" name="textfield2" id="textfield" value="{{ data['phoneno'] }}"/></td>
+    </tr>
+    <tr>
+      <th scope="row">Email</th>
+      <td><label for="textfield2"></label>
+        <input type="text" name="textfield" id="textfield2" value="{{ data['email'] }}"/></td>
+    </tr>
+    
+  </table>
+</form>
+</body>
+</html>

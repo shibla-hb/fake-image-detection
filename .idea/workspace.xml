@@ -1,0 +1,1429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/fake_image_detections.py" line="32" mnemonic="5" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b300fe04-0650-4db6-89dd-5d0b0732f1a8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/fonts/nucleo-icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/fonts/nucleo-icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/fonts/nucleo-icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/fonts/nucleo-icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/fonts/nucleo.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/fonts/nucleo.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/fonts/nucleo.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/fonts/nucleo.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/apple-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/bruce-mars.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/curved-images/curved0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/curved-images/curved1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/curved-images/curved14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/curved-images/curved6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/curved-images/curved8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/curved-images/white-curved.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/home-decor-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/home-decor-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/home-decor-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/illustrations/rocket-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/ivana-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/ivancik.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/kal-visuals-square.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/logo-ct.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/logos/mastercard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/logos/visa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/marie.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/small-logos/icon-sun-cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/team-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/team-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/team-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/team-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/vr-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/media/soft-ui-dashboard-intro.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/media/soft-ui-dashboard-screen-billing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/media/soft-ui-dashboard-screen-login.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/media/soft-ui-dashboard-screen-profile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/media/soft-ui-dashboard-screen-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/media/soft-ui-dashboard-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/icomoon/fonts/icomoon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/icomoon/fonts/icomoon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/icomoon/fonts/icomoon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/images/bg_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/images/images.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/photo/220309-103128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/photo/220309-105925.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/photo/220311-085952.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/fonts/material-design-iconic-font/fonts/Material-Design-Iconic-Font.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/fonts/material-design-iconic-font/fonts/Material-Design-Iconic-Font.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/fonts/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/fonts/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/fonts/poppins/Poppins-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/fonts/poppins/Poppins-SemiBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/images/bg-registration-form-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/images/images.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/images/registration-form-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/fake_image_detections.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DBConnection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fake_image_detections.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/css/nucleo-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/css/nucleo-svg.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/css/soft-ui-dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/css/soft-ui-dashboard.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/css/soft-ui-dashboard.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/fonts/nucleo-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/down-arrow-dark.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/down-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/shapes/waves-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/small-logos/logo-atlassian.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/small-logos/logo-invision.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/small-logos/logo-jira.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/small-logos/logo-slack.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/small-logos/logo-spotify.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/small-logos/logo-webdev.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/img/small-logos/logo-xd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/js/core/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/js/core/popper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/js/plugins/Chart.extension.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/js/plugins/bootstrap-notify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/js/plugins/chartjs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/js/plugins/choices.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/js/plugins/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/js/plugins/perfect-scrollbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/js/plugins/smooth-scrollbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/js/soft-ui-dashboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/js/soft-ui-dashboard.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/js/soft-ui-dashboard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_accordion.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_alert.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_avatars.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_backgrounds.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_badge.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_breadcrumbs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_cards-extend.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_cards.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_components.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_dropdown-extend.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_dropdown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_dropup.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_fixed-plugin.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_floating-elements.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_gradients.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_info-areas.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_list-check.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_misc-extend.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_misc.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_nav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_navbar-vertical-extend.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_navbar-vertical.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_popovers.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_progress.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_rtl-extend.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_rtl.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_social-buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_tilt.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_timeline.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_tooltips.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_utilities-extend.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/badges/_badge-circle.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/badges/_badge-dot.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/badges/_badge-floating.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/badges/_badge.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_accordion.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_alert.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_badge.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_breadcrumb.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_button-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_card.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_close.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_containers.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_dropdown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_functions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_helpers.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_images.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_modal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_nav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_offcanvas.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_popover.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_progress.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_reboot.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_root.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_spinners.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_toasts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_tooltip.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_transitions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_type.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/bootstrap-grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/bootstrap-reboot.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/bootstrap-utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/forms/_floating-labels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/forms/_form-check.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/forms/_form-control.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/forms/_form-range.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/forms/_form-select.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/forms/_form-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/forms/_input-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/forms/_labels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/forms/_validation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/helpers/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/helpers/_colored-links.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/helpers/_position.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/helpers/_ratio.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/helpers/_stretched-link.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/helpers/_text-truncation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/helpers/_visually-hidden.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_alert.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_border-radius.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_box-shadow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_breakpoints.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_caret.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_color-scheme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_container.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_deprecate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_gradients.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_image.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_lists.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_reset-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_resize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_table-variants.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_text-truncate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_transition.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_visually-hidden.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/utilities/_api.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/vendor/_rfs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/cards/card-background.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/cards/card-blog.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/cards/card-horizontal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/cards/card-pricing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/cards/card-profile.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/custom/_styles.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/custom/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/forms/_form-check.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/forms/_form-select.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/forms/_form-switch.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/forms/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/forms/_input-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/forms/_inputs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/forms/_labels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/mixins/_badge.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/mixins/_colored-shadows.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/mixins/_hover.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/mixins/_social-buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/mixins/mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/free/_flatpickr.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/free/_nouislider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/free/_perfect-scrollbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/free/_prism.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/free/plugins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_carousel-slick.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_choices.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_datatable-extend.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_datatable.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_dragula.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_dropzone.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_fullcalendar-extend.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_fullcalendar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_glidejs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_highlight.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_kanban.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_leaflet.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_list-check.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_photoswipe.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_quill.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_rating-widget.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_sweetalert2-extend.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_sweetalert2.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/multi-step.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/plugins-extend.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/theme-pro.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_animations.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_avatars.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_badge.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_breadcrumb.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_cards-extend.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_cards.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_choices.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_dropdowns.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_fixed-plugin.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_form-switch.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_full-calendar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_info-areas.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_misc-extend.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_misc.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_navbar-vertical.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_rtl.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_social-buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_table.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_timeline.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_utilities-extend.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_virtual-reality.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/docs/documentation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/pages/billing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/pages/dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/pages/profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/pages/rtl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/pages/sign-in.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/pages/sign-up.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/pages/tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashboard/pages/virtual-reality.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/css/bootstrap/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/css/bootstrap/bootstrap-reboot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/css/owl.carousel.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/icomoon/Read Me.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/icomoon/demo-files/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/icomoon/demo-files/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/icomoon/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/icomoon/fonts/icomoon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/icomoon/selection.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/fonts/icomoon/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/images/undraw_file_sync_ot38.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/js/jquery-3.3.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/js/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/js/popper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_alert.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_badge.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_breadcrumb.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_button-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_card.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_close.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_code.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_custom-forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_dropdown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_functions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_images.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_input-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_jumbotron.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_media.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_modal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_nav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_popover.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_print.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_progress.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_reboot.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_root.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_spinners.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_toasts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_tooltip.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_transitions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_type.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/bootstrap-grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/bootstrap-reboot.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_alert.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_background-variant.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_badge.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_border-radius.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_box-shadow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_breakpoints.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_caret.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_deprecate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_float.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_gradients.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_grid-framework.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_hover.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_image.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_lists.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_nav-divider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_reset-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_resize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_size.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_table-row.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_text-emphasis.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_text-hide.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_text-truncate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_transition.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/mixins/_visibility.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/utilities/_align.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/utilities/_background.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/utilities/_borders.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/utilities/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/utilities/_display.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/utilities/_embed.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/utilities/_flex.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/utilities/_float.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/utilities/_overflow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/utilities/_position.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/utilities/_screenreaders.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/utilities/_shadows.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/utilities/_sizing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/utilities/_spacing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/utilities/_stretched-link.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/utilities/_text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/utilities/_visibility.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/bootstrap/vendor/_rfs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login/scss/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/css/style.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/css/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/fonts/material-design-iconic-font/css/material-design-iconic-font.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/fonts/material-design-iconic-font/css/material-design-iconic-font.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/fonts/material-design-iconic-font/fonts/Material-Design-Iconic-Font.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/registrationform.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/sign-in.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/sign-up.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/viewprofile.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/fake_image_detections$fake_image_detections.coverage" NAME="fake_image_detections Coverage Results" MODIFIED="1646973781846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="fake_image_detections.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fake_image_detections.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1134">
+              <caret line="56" column="17" lean-forward="false" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#55#0" expanded="true" />
+                <marker date="1646970805581" expanded="true" signature="1569:1599" ph="insert into login... " />
+                <marker date="1646970805581" expanded="true" signature="1569:1611" ph="insert into login... " />
+                <marker date="1646970805581" expanded="true" signature="1569:1632" ph="insert into login... " />
+                <marker date="1646970805581" expanded="true" signature="1569:1634" ph="insert into login... " />
+                <marker date="1646970805581" expanded="true" signature="1657:1683" ph="insert into user... " />
+                <marker date="1646970805581" expanded="true" signature="1657:1698" ph="insert into user... " />
+                <marker date="1646970805581" expanded="true" signature="1657:1709" ph="insert into user... " />
+                <marker date="1646970805581" expanded="true" signature="1657:1723" ph="insert into user... " />
+                <marker date="1646970805581" expanded="true" signature="1657:1735" ph="insert into user... " />
+                <marker date="1646970805581" expanded="true" signature="1657:1747" ph="insert into user... " />
+                <marker date="1646970805581" expanded="true" signature="1657:1757" ph="insert into user... " />
+                <marker date="1646970805581" expanded="true" signature="1657:1772" ph="insert into user... " />
+                <marker date="1646970805581" expanded="true" signature="1657:1773" ph="insert into user... " />
+                <marker date="1646970805581" expanded="true" signature="1657:1787" ph="insert into user... " />
+                <marker date="1646970805581" expanded="true" signature="1657:1788" ph="insert into user... " />
+                <marker date="1646970805581" expanded="true" signature="1657:1798" ph="insert into user... " />
+                <marker date="1646970805581" expanded="true" signature="1657:1799" ph="insert into user... " />
+                <marker date="1646970805581" expanded="true" signature="1657:1801" ph="insert into user... " />
+                <marker date="1646970805581" expanded="true" signature="2126:2160" ph="select * fro... user" />
+                <marker date="1646970805581" expanded="true" signature="2126:2184" ph="select * fro... user" />
+                <marker date="1646970805581" expanded="true" signature="2126:2187" ph="select * fro... user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="25" column="74" lean-forward="false" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/dashboard.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4137">
+              <caret line="197" column="54" lean-forward="false" selection-start-line="197" selection-start-column="54" selection-end-line="197" selection-end-column="54" />
+              <folding>
+                <marker date="1646973776899" expanded="false" signature="34390:34441" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sign-in.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/dashboard/pages/sign-in.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/dashboard/pages/dashboard.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sign-in.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/sign-in.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sign-up.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/sign-up.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="documentation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/dashboard/docs/documentation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="popper.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/dashboard/assets/js/core/popper.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/register/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>400</find>
+      <find>chart</find>
+      <find>30 done</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/DBConnection.py" />
+        <option value="$PROJECT_DIR$/templates/viewprofile.html" />
+        <option value="$PROJECT_DIR$/templates/login.css" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/templates/registration.html" />
+        <option value="$PROJECT_DIR$/templates/registrationform.html" />
+        <option value="$PROJECT_DIR$/static/register/css/style.css" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/register.html" />
+        <option value="$PROJECT_DIR$/fake_image_detections.py" />
+        <option value="$PROJECT_DIR$/static/dashboard/docs/documentation.html" />
+        <option value="$PROJECT_DIR$/templates/dashboard.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="2" />
+    <option name="width" value="1934" />
+    <option name="height" value="1036" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fake_image_detections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.10.2 (C:\Users\HP\AppData\Local\Programs\Python\Python310\python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fake_image_detections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fake_image_detections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fake_image_detections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fake_image_detections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fake_image_detections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fake_image_detections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fake_image_detections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fake_image_detections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fake_image_detections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fake_image_detections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\fake_image_detections\templates" />
+      <recent name="C:\Users\HP\PycharmProjects\fake_image_detections\static\dashboard" />
+      <recent name="C:\Users\HP\PycharmProjects\fake_image_detections\static\login\images" />
+      <recent name="C:\Users\HP\PycharmProjects\fake_image_detections\static\register\images" />
+      <recent name="C:\Users\HP\PycharmProjects\fake_image_detections\static\register" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.fake_image_detections">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fake_image_detections" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fake_image_detections" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fake_image_detections" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fake_image_detections" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="fake_image_detections" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fake_image_detections" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fake_image_detections" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="fake_image_detections" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="fake_image_detections" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fake_image_detections.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.fake_image_detections" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b300fe04-0650-4db6-89dd-5d0b0732f1a8" name="Default" comment="" />
+      <created>1646713342431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646713342431</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="2" width="1934" height="1036" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18006264" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33926585" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/login/css/bootstrap/bootstrap-grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="58" lean-forward="false" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/register/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/register/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/register/css/style.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/register/images/images.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/register/images/bg-registration-form-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registrationform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fake_image_detections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="56" column="19" lean-forward="false" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+            <marker date="1646970805581" expanded="true" signature="1569:1599" ph="insert into login... " />
+            <marker date="1646970805581" expanded="true" signature="1569:1611" ph="insert into login... " />
+            <marker date="1646970805581" expanded="true" signature="1569:1632" ph="insert into login... " />
+            <marker date="1646970805581" expanded="true" signature="1569:1634" ph="insert into login... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1683" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1698" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1709" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1723" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1735" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1747" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1757" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1772" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1773" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1787" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1788" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1798" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1799" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1801" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="2126:2160" ph="select * fro... user" />
+            <marker date="1646970805581" expanded="true" signature="2126:2184" ph="select * fro... user" />
+            <marker date="1646970805581" expanded="true" signature="2126:2187" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/DBConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="103" lean-forward="false" selection-start-line="5" selection-start-column="103" selection-end-line="5" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registrationform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/viewprofile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="41" column="42" lean-forward="false" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fake_image_detections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="56" column="19" lean-forward="false" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+            <marker date="1646970805581" expanded="true" signature="1569:1599" ph="insert into login... " />
+            <marker date="1646970805581" expanded="true" signature="1569:1611" ph="insert into login... " />
+            <marker date="1646970805581" expanded="true" signature="1569:1632" ph="insert into login... " />
+            <marker date="1646970805581" expanded="true" signature="1569:1634" ph="insert into login... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1683" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1698" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1709" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1723" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1735" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1747" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1757" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1772" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1773" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1787" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1788" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1798" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1799" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1801" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="2126:2160" ph="select * fro... user" />
+            <marker date="1646970805581" expanded="true" signature="2126:2184" ph="select * fro... user" />
+            <marker date="1646970805581" expanded="true" signature="2126:2187" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/DBConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="103" lean-forward="false" selection-start-line="5" selection-start-column="103" selection-end-line="5" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registrationform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/viewprofile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="41" column="42" lean-forward="true" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fake_image_detections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+            <marker date="1646970805581" expanded="true" signature="1569:1599" ph="insert into login... " />
+            <marker date="1646970805581" expanded="true" signature="1569:1611" ph="insert into login... " />
+            <marker date="1646970805581" expanded="true" signature="1569:1632" ph="insert into login... " />
+            <marker date="1646970805581" expanded="true" signature="1569:1634" ph="insert into login... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1683" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1698" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1709" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1723" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1735" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1747" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1757" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1772" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1773" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1787" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1788" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1798" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1799" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1801" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="2126:2160" ph="select * fro... user" />
+            <marker date="1646970805581" expanded="true" signature="2126:2184" ph="select * fro... user" />
+            <marker date="1646970805581" expanded="true" signature="2126:2187" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registrationform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/viewprofile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/DBConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/viewprofile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="41" column="42" lean-forward="false" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.css" />
+    <entry file="file://$PROJECT_DIR$/DBConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="103" lean-forward="false" selection-start-line="5" selection-start-column="103" selection-end-line="5" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration.html" />
+    <entry file="file://$PROJECT_DIR$/templates/index1.html" />
+    <entry file="file://$PROJECT_DIR$/static/register/images/bg-registration-form-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/register/images/images.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/register/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/register/css/style.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/login/css/bootstrap/bootstrap-grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registrationform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="74" lean-forward="false" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/dashboard/assets/js/core/popper.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fake_image_detections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="56" column="17" lean-forward="false" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+            <marker date="1646970805581" expanded="true" signature="1569:1599" ph="insert into login... " />
+            <marker date="1646970805581" expanded="true" signature="1569:1611" ph="insert into login... " />
+            <marker date="1646970805581" expanded="true" signature="1569:1632" ph="insert into login... " />
+            <marker date="1646970805581" expanded="true" signature="1569:1634" ph="insert into login... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1683" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1698" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1709" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1723" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1735" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1747" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1757" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1772" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1773" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1787" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1788" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1798" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1799" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="1657:1801" ph="insert into user... " />
+            <marker date="1646970805581" expanded="true" signature="2126:2160" ph="select * fro... user" />
+            <marker date="1646970805581" expanded="true" signature="2126:2184" ph="select * fro... user" />
+            <marker date="1646970805581" expanded="true" signature="2126:2187" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/register/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/dashboard/docs/documentation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4137">
+          <caret line="197" column="54" lean-forward="false" selection-start-line="197" selection-start-column="54" selection-end-line="197" selection-end-column="54" />
+          <folding>
+            <marker date="1646973776899" expanded="false" signature="34390:34441" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/dashboard/pages/sign-in.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/dashboard/pages/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/sign-up.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/sign-in.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
