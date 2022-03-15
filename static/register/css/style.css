@@ -79,7 +79,7 @@ a:hover {
     right: 0; }
 
 .form-control {
-  border: 1px solid #333;
+  border: 1px solid #2ed3c0;
   border-top: none;
   border-right: none;
   border-left: none;
@@ -90,19 +90,19 @@ a:hover {
   margin-bottom: 25px; }
   .form-control::-webkit-input-placeholder {
     font-size: 13px;
-    color: #333;
+    color: #38d3ae;
     font-family: "Poppins-Regular"; }
   .form-control::-moz-placeholder {
     font-size: 13px;
-    color: #333;
+    color: #38d3ae;
     font-family: "Poppins-Regular"; }
   .form-control:-ms-input-placeholder {
     font-size: 13px;
-    color: #333;
+    color: #38d3ae;
     font-family: "Poppins-Regular"; }
   .form-control:-moz-placeholder {
     font-size: 13px;
-    color: #333;
+    color: #2ad39d;
     font-family: "Poppins-Regular"; }
 
 select {
@@ -124,7 +124,7 @@ button {
   align-items: center;
   justify-content: center;
   padding: 0;
-  background: #333;
+  background: #38d39f;
   font-size: 15px;
   color: #fff;
   vertical-align: middle;
