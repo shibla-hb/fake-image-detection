@@ -5,290 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b300fe04-0650-4db6-89dd-5d0b0732f1a8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/css/nucleo-icons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/css/nucleo-svg.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/css/soft-ui-dashboard.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/css/soft-ui-dashboard.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/css/soft-ui-dashboard.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/fonts/nucleo-icons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/fonts/nucleo-icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/fonts/nucleo-icons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/fonts/nucleo-icons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/fonts/nucleo-icons.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/fonts/nucleo.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/fonts/nucleo.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/fonts/nucleo.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/fonts/nucleo.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/apple-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/bruce-mars.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/curved-images/curved0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/curved-images/curved1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/curved-images/curved14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/curved-images/curved6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/curved-images/curved8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/curved-images/white-curved.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/down-arrow-dark.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/down-arrow.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/home-decor-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/home-decor-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/home-decor-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/illustrations/rocket-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/ivana-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/ivancik.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/kal-visuals-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/logo-ct.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/logos/mastercard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/logos/visa.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/marie.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/shapes/waves-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/small-logos/icon-sun-cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/small-logos/logo-atlassian.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/small-logos/logo-invision.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/small-logos/logo-jira.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/small-logos/logo-slack.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/small-logos/logo-spotify.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/small-logos/logo-webdev.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/small-logos/logo-xd.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/team-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/team-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/team-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/team-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/img/vr-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/js/core/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/js/core/popper.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/js/plugins/Chart.extension.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/js/plugins/bootstrap-notify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/js/plugins/chartjs.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/js/plugins/choices.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/js/plugins/fullcalendar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/js/plugins/perfect-scrollbar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/js/plugins/smooth-scrollbar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/js/soft-ui-dashboard.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/js/soft-ui-dashboard.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/js/soft-ui-dashboard.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_accordion.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_alert.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_avatars.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_backgrounds.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_badge.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_breadcrumbs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_cards-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_cards.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_components.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_dropdown-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_dropdown.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_dropup.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_fixed-plugin.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_floating-elements.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_footer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_gradients.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_header.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_info-areas.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_list-check.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_misc-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_misc.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_nav.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_navbar-vertical-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_navbar-vertical.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_navbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_popovers.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_progress.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_rtl-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_rtl.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_social-buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_tables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_tilt.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_timeline.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_tooltips.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_typography.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_utilities-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_utilities.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/badges/_badge-circle.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/badges/_badge-dot.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/badges/_badge-floating.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/badges/_badge.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_accordion.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_alert.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_badge.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_breadcrumb.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_button-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_card.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_carousel.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_close.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_containers.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_dropdown.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_functions.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_helpers.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_images.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_list-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_modal.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_nav.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_navbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_offcanvas.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_popover.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_progress.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_reboot.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_root.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_spinners.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_tables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_toasts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_tooltip.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_transitions.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_type.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_utilities.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/bootstrap-grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/bootstrap-reboot.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/bootstrap-utilities.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/bootstrap.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/forms/_floating-labels.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/forms/_form-check.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/forms/_form-control.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/forms/_form-range.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/forms/_form-select.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/forms/_form-text.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/forms/_input-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/forms/_labels.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/forms/_validation.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/helpers/_clearfix.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/helpers/_colored-links.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/helpers/_position.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/helpers/_ratio.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/helpers/_stretched-link.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/helpers/_text-truncation.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/helpers/_visually-hidden.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_alert.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_border-radius.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_box-shadow.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_breakpoints.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_caret.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_clearfix.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_color-scheme.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_container.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_deprecate.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_gradients.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_image.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_list-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_lists.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_reset-text.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_resize.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_table-variants.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_text-truncate.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_transition.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_utilities.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/mixins/_visually-hidden.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/utilities/_api.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/bootstrap/vendor/_rfs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/cards/card-background.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/cards/card-blog.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/cards/card-horizontal.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/cards/card-pricing.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/cards/card-profile.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/custom/_styles.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/custom/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/forms/_form-check.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/forms/_form-select.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/forms/_form-switch.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/forms/_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/forms/_input-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/forms/_inputs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/forms/_labels.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/mixins/_badge.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/mixins/_colored-shadows.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/mixins/_hover.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/mixins/_social-buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/mixins/mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/free/_flatpickr.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/free/_nouislider.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/free/_perfect-scrollbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/free/_prism.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/free/plugins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_carousel-slick.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_choices.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_datatable-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_datatable.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_dragula.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_dropzone.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_fullcalendar-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_fullcalendar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_glidejs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_highlight.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_kanban.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_leaflet.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_list-check.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_photoswipe.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_quill.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_rating-widget.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_sweetalert2-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/_sweetalert2.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/multi-step.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/plugins/pro/plugins-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/theme-pro.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/theme.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_animations.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_avatars.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_badge.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_breadcrumb.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_cards-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_cards.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_choices.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_dropdowns.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_fixed-plugin.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_form-switch.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_full-calendar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_header.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_info-areas.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_misc-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_misc.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_navbar-vertical.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_navbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_rtl.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_social-buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_table.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_timeline.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_utilities-extend.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_utilities.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/assets/scss/soft-ui-dashboard/variables/_virtual-reality.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/docs/documentation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/media/soft-ui-dashboard-intro.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/media/soft-ui-dashboard-screen-billing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/media/soft-ui-dashboard-screen-login.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/media/soft-ui-dashboard-screen-profile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/media/soft-ui-dashboard-screen-rtl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/media/soft-ui-dashboard-screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/pages/billing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/pages/dashboard.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/pages/profile.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/pages/rtl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/pages/sign-in.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/pages/sign-up.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/pages/tables.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dashboard/pages/virtual-reality.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/dashboard.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/sign-in.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/sign-up.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/viewprofile.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fake_image_detections.py" afterPath="$PROJECT_DIR$/fake_image_detections.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/register/css/style.css" afterPath="$PROJECT_DIR$/static/register/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/register/css/style.scss" afterPath="$PROJECT_DIR$/static/register/css/style.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -298,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/fake_image_detections$fake_image_detections.coverage" NAME="fake_image_detections Coverage Results" MODIFIED="1647342819025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/fake_image_detections$fake_image_detections.coverage" NAME="fake_image_detections Coverage Results" MODIFIED="1647376356102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
@@ -306,48 +24,51 @@
       <file leaf-file-name="fake_image_detections.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fake_image_detections.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="22" column="40" lean-forward="false" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+            <state relative-caret-position="839">
+              <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding>
                 <element signature="e#0#55#0" expanded="true" />
-                <marker date="1647340966296" expanded="true" signature="1569:1599" ph="insert into login... " />
-                <marker date="1647340966296" expanded="true" signature="1569:1611" ph="insert into login... " />
-                <marker date="1647340966296" expanded="true" signature="1569:1632" ph="insert into login... " />
-                <marker date="1647340966296" expanded="true" signature="1569:1634" ph="insert into login... " />
-                <marker date="1647340966296" expanded="true" signature="1657:1683" ph="insert into user... " />
-                <marker date="1647340966296" expanded="true" signature="1657:1698" ph="insert into user... " />
-                <marker date="1647340966296" expanded="true" signature="1657:1709" ph="insert into user... " />
-                <marker date="1647340966296" expanded="true" signature="1657:1723" ph="insert into user... " />
-                <marker date="1647340966296" expanded="true" signature="1657:1735" ph="insert into user... " />
-                <marker date="1647340966296" expanded="true" signature="1657:1747" ph="insert into user... " />
-                <marker date="1647340966296" expanded="true" signature="1657:1757" ph="insert into user... " />
-                <marker date="1647340966296" expanded="true" signature="1657:1772" ph="insert into user... " />
-                <marker date="1647340966296" expanded="true" signature="1657:1773" ph="insert into user... " />
-                <marker date="1647340966296" expanded="true" signature="1657:1787" ph="insert into user... " />
-                <marker date="1647340966296" expanded="true" signature="1657:1788" ph="insert into user... " />
-                <marker date="1647340966296" expanded="true" signature="1657:1798" ph="insert into user... " />
-                <marker date="1647340966296" expanded="true" signature="1657:1799" ph="insert into user... " />
-                <marker date="1647340966296" expanded="true" signature="1657:1801" ph="insert into user... " />
-                <marker date="1647340966296" expanded="true" signature="2126:2160" ph="select * fro... user" />
-                <marker date="1647340966296" expanded="true" signature="2126:2184" ph="select * fro... user" />
-                <marker date="1647340966296" expanded="true" signature="2126:2187" ph="select * fro... user" />
+                <marker date="1647370448468" expanded="true" signature="1569:1599" ph="insert into login... " />
+                <marker date="1647370448468" expanded="true" signature="1569:1611" ph="insert into login... " />
+                <marker date="1647370448468" expanded="true" signature="1569:1632" ph="insert into login... " />
+                <marker date="1647370448468" expanded="true" signature="1569:1634" ph="insert into login... " />
+                <marker date="1647370448468" expanded="true" signature="1657:1683" ph="insert into user... " />
+                <marker date="1647370448468" expanded="true" signature="1657:1698" ph="insert into user... " />
+                <marker date="1647370448468" expanded="true" signature="1657:1709" ph="insert into user... " />
+                <marker date="1647370448468" expanded="true" signature="1657:1723" ph="insert into user... " />
+                <marker date="1647370448468" expanded="true" signature="1657:1735" ph="insert into user... " />
+                <marker date="1647370448468" expanded="true" signature="1657:1747" ph="insert into user... " />
+                <marker date="1647370448468" expanded="true" signature="1657:1757" ph="insert into user... " />
+                <marker date="1647370448468" expanded="true" signature="1657:1772" ph="insert into user... " />
+                <marker date="1647370448468" expanded="true" signature="1657:1773" ph="insert into user... " />
+                <marker date="1647370448468" expanded="true" signature="1657:1787" ph="insert into user... " />
+                <marker date="1647370448468" expanded="true" signature="1657:1788" ph="insert into user... " />
+                <marker date="1647370448468" expanded="true" signature="1657:1798" ph="insert into user... " />
+                <marker date="1647370448468" expanded="true" signature="1657:1799" ph="insert into user... " />
+                <marker date="1647370448468" expanded="true" signature="1657:1801" ph="insert into user... " />
+                <marker date="1647370448468" expanded="true" signature="2126:2160" ph="select * fro... user" />
+                <marker date="1647370448468" expanded="true" signature="2126:2184" ph="select * fro... user" />
+                <marker date="1647370448468" expanded="true" signature="2126:2187" ph="select * fro... user" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="images.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/login/images/images.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="viewprofile.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/viewprofile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="registrationform.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/registrationform.html">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            <state relative-caret-position="-189">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -356,7 +77,7 @@
       <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
+            <state relative-caret-position="525">
               <caret line="25" column="74" lean-forward="false" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
               <folding />
             </state>
@@ -367,27 +88,47 @@
         <entry file="file://$PROJECT_DIR$/static/register/css/style.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/register/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="399">
+              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="popper.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/dashboard/assets/js/core/popper.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/dashboard.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="44" column="67" lean-forward="false" selection-start-line="44" selection-start-column="67" selection-end-line="44" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -395,14 +136,14 @@
       </file>
       <file leaf-file-name="style.css.map" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/register/css/style.css.map">
-          <provider editor-type-id="sourcemapFileViewerProvider">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="sourcemapFileViewerProvider">
+            <state />
           </provider>
         </entry>
       </file>
@@ -421,8 +162,12 @@
       <find>chart</find>
       <find>30 done</find>
       <find>view profile</find>
-      <find>profile</find>
       <find>sign in</find>
+      <find>Work with the rockets</find>
+      <find>&lt;div class=&quot;chart</find>
+      <find>profile</find>
+      <find>view profi</find>
+      <find>soft ui</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -445,11 +190,11 @@
         <option value="$PROJECT_DIR$/static/dashboard/docs/documentation.html" />
         <option value="$PROJECT_DIR$/templates/sign-in.html" />
         <option value="$PROJECT_DIR$/templates/sign-up.html" />
-        <option value="$PROJECT_DIR$/templates/dashboard.html" />
-        <option value="$PROJECT_DIR$/fake_image_detections.py" />
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/static/register/css/style.scss" />
         <option value="$PROJECT_DIR$/static/register/css/style.css" />
+        <option value="$PROJECT_DIR$/fake_image_detections.py" />
+        <option value="$PROJECT_DIR$/templates/dashboard.html" />
       </list>
     </option>
   </component>
@@ -460,10 +205,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="2" />
-    <option name="width" value="1930" />
-    <option name="height" value="1036" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -481,6 +226,60 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Changed Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="fake_image_detections">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="fake_image_detections">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="fake_image_detections">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="templates">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="fake_image_detections">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="static">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -533,104 +332,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="register" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fake_image_detections" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fake_image_detections" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="register" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="style.scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fake_image_detections" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fake_image_detections" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Changed Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="fake_image_detections">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="fake_image_detections">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="fake_image_detections">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="templates">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="fake_image_detections">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="static">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -848,16 +549,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="2" width="1930" height="1036" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18043932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33926585" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33479694" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -879,18 +580,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/static/register/css/style.css.map">
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/register/images/images.jpg">
@@ -916,27 +619,27 @@
           <caret line="56" column="19" lean-forward="false" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
           <folding>
             <element signature="e#0#55#0" expanded="true" />
-            <marker date="1647340966296" expanded="true" signature="1569:1599" ph="insert into login... " />
-            <marker date="1647340966296" expanded="true" signature="1569:1611" ph="insert into login... " />
-            <marker date="1647340966296" expanded="true" signature="1569:1632" ph="insert into login... " />
-            <marker date="1647340966296" expanded="true" signature="1569:1634" ph="insert into login... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1683" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1698" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1709" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1723" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1735" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1747" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1757" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1772" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1773" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1787" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1788" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1798" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1799" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1801" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="2126:2160" ph="select * fro... user" />
-            <marker date="1647340966296" expanded="true" signature="2126:2184" ph="select * fro... user" />
-            <marker date="1647340966296" expanded="true" signature="2126:2187" ph="select * fro... user" />
+            <marker date="1647370448468" expanded="true" signature="1569:1599" ph="insert into login... " />
+            <marker date="1647370448468" expanded="true" signature="1569:1611" ph="insert into login... " />
+            <marker date="1647370448468" expanded="true" signature="1569:1632" ph="insert into login... " />
+            <marker date="1647370448468" expanded="true" signature="1569:1634" ph="insert into login... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1683" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1698" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1709" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1723" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1735" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1747" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1757" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1772" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1773" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1787" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1788" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1798" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1799" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1801" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="2126:2160" ph="select * fro... user" />
+            <marker date="1647370448468" expanded="true" signature="2126:2184" ph="select * fro... user" />
+            <marker date="1647370448468" expanded="true" signature="2126:2187" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
@@ -969,13 +672,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/viewprofile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="41" column="42" lean-forward="false" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/viewprofile.html" />
     <entry file="file://$PROJECT_DIR$/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -989,27 +686,27 @@
           <caret line="56" column="19" lean-forward="false" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
           <folding>
             <element signature="e#0#55#0" expanded="true" />
-            <marker date="1647340966296" expanded="true" signature="1569:1599" ph="insert into login... " />
-            <marker date="1647340966296" expanded="true" signature="1569:1611" ph="insert into login... " />
-            <marker date="1647340966296" expanded="true" signature="1569:1632" ph="insert into login... " />
-            <marker date="1647340966296" expanded="true" signature="1569:1634" ph="insert into login... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1683" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1698" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1709" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1723" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1735" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1747" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1757" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1772" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1773" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1787" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1788" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1798" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1799" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1801" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="2126:2160" ph="select * fro... user" />
-            <marker date="1647340966296" expanded="true" signature="2126:2184" ph="select * fro... user" />
-            <marker date="1647340966296" expanded="true" signature="2126:2187" ph="select * fro... user" />
+            <marker date="1647370448468" expanded="true" signature="1569:1599" ph="insert into login... " />
+            <marker date="1647370448468" expanded="true" signature="1569:1611" ph="insert into login... " />
+            <marker date="1647370448468" expanded="true" signature="1569:1632" ph="insert into login... " />
+            <marker date="1647370448468" expanded="true" signature="1569:1634" ph="insert into login... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1683" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1698" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1709" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1723" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1735" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1747" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1757" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1772" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1773" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1787" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1788" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1798" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1799" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1801" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="2126:2160" ph="select * fro... user" />
+            <marker date="1647370448468" expanded="true" signature="2126:2184" ph="select * fro... user" />
+            <marker date="1647370448468" expanded="true" signature="2126:2187" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
@@ -1042,13 +739,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/viewprofile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="41" column="42" lean-forward="true" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/viewprofile.html" />
     <entry file="file://$PROJECT_DIR$/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1062,27 +753,27 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#55#0" expanded="true" />
-            <marker date="1647340966296" expanded="true" signature="1569:1599" ph="insert into login... " />
-            <marker date="1647340966296" expanded="true" signature="1569:1611" ph="insert into login... " />
-            <marker date="1647340966296" expanded="true" signature="1569:1632" ph="insert into login... " />
-            <marker date="1647340966296" expanded="true" signature="1569:1634" ph="insert into login... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1683" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1698" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1709" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1723" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1735" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1747" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1757" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1772" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1773" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1787" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1788" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1798" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1799" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1801" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="2126:2160" ph="select * fro... user" />
-            <marker date="1647340966296" expanded="true" signature="2126:2184" ph="select * fro... user" />
-            <marker date="1647340966296" expanded="true" signature="2126:2187" ph="select * fro... user" />
+            <marker date="1647370448468" expanded="true" signature="1569:1599" ph="insert into login... " />
+            <marker date="1647370448468" expanded="true" signature="1569:1611" ph="insert into login... " />
+            <marker date="1647370448468" expanded="true" signature="1569:1632" ph="insert into login... " />
+            <marker date="1647370448468" expanded="true" signature="1569:1634" ph="insert into login... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1683" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1698" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1709" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1723" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1735" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1747" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1757" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1772" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1773" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1787" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1788" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1798" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1799" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1801" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="2126:2160" ph="select * fro... user" />
+            <marker date="1647370448468" expanded="true" signature="2126:2184" ph="select * fro... user" />
+            <marker date="1647370448468" expanded="true" signature="2126:2187" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
@@ -1101,13 +792,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/viewprofile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/viewprofile.html" />
     <entry file="file://$USER_HOME$/Downloads/DBConnection.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1135,18 +820,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/dashboard/assets/js/core/popper.min.js" />
     <entry file="file://$PROJECT_DIR$/static/dashboard/docs/documentation.html" />
     <entry file="file://$PROJECT_DIR$/static/dashboard/pages/sign-in.html" />
     <entry file="file://$PROJECT_DIR$/templates/sign-in.html" />
     <entry file="file://$PROJECT_DIR$/templates/sign-up.html" />
     <entry file="file://$PROJECT_DIR$/static/dashboard/pages/dashboard.html" />
-    <entry file="file://$PROJECT_DIR$/templates/dashboard.html" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1154,15 +836,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1170,15 +843,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
           <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/viewprofile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="41" column="42" lean-forward="false" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1191,52 +855,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/login/images/images.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fake_image_detections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="22" column="40" lean-forward="false" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-            <marker date="1647340966296" expanded="true" signature="1569:1599" ph="insert into login... " />
-            <marker date="1647340966296" expanded="true" signature="1569:1611" ph="insert into login... " />
-            <marker date="1647340966296" expanded="true" signature="1569:1632" ph="insert into login... " />
-            <marker date="1647340966296" expanded="true" signature="1569:1634" ph="insert into login... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1683" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1698" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1709" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1723" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1735" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1747" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1757" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1772" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1773" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1787" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1788" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1798" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1799" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="1657:1801" ph="insert into user... " />
-            <marker date="1647340966296" expanded="true" signature="2126:2160" ph="select * fro... user" />
-            <marker date="1647340966296" expanded="true" signature="2126:2184" ph="select * fro... user" />
-            <marker date="1647340966296" expanded="true" signature="2126:2187" ph="select * fro... user" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/registrationform.html">
@@ -1249,16 +873,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
+        <state relative-caret-position="525">
           <caret line="25" column="74" lean-forward="false" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/register/css/style.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
       <provider editor-type-id="sourcemapFileViewerProvider">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/register/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1266,18 +898,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/register/css/style.scss">
+    <entry file="file://$PROJECT_DIR$/static/register/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="399">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/register/css/style.css">
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="441">
+          <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/dashboard/assets/js/core/popper.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/viewprofile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fake_image_detections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="839">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+            <marker date="1647370448468" expanded="true" signature="1569:1599" ph="insert into login... " />
+            <marker date="1647370448468" expanded="true" signature="1569:1611" ph="insert into login... " />
+            <marker date="1647370448468" expanded="true" signature="1569:1632" ph="insert into login... " />
+            <marker date="1647370448468" expanded="true" signature="1569:1634" ph="insert into login... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1683" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1698" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1709" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1723" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1735" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1747" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1757" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1772" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1773" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1787" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1788" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1798" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1799" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="1657:1801" ph="insert into user... " />
+            <marker date="1647370448468" expanded="true" signature="2126:2160" ph="select * fro... user" />
+            <marker date="1647370448468" expanded="true" signature="2126:2184" ph="select * fro... user" />
+            <marker date="1647370448468" expanded="true" signature="2126:2187" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="44" column="67" lean-forward="false" selection-start-line="44" selection-start-column="67" selection-end-line="44" selection-end-column="67" />
           <folding />
         </state>
       </provider>
