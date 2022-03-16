@@ -1,4 +1,4 @@
-from flask import Flask,render_template,request,session
+from flask import Flask, render_template, request, session, redirect
 import datetime
 from DBConnection import Db
 
@@ -15,7 +15,13 @@ def login():
         db = Db()
         qry=db.selectOne("select*from login where username='"+username+"' and password='"+password+"'")
         if qry is not None:
-            session['lid']=qry['login_id']
+            uid=qry['login_id']
+            values=db.selectOne("select * from user where user_id='"+str(uid)+"'")
+            session['photo']=values['photo']
+            print(session['photo'])
+            session['name']=values['username']
+            session['lid']=uid
+            session['log']='log'
             return '''<script>alert('login successfully');window.location="/home"</script>'''
         else:
             return '''<script>alert('user not found');window.location="/"</script>'''
@@ -50,15 +56,21 @@ def registerform():
        return render_template('register.html')
 @app.route('/view')
 def viewprofile():
-    db=Db()
-    qry=db.selectOne("select * from user where user_id='"+str(session['lid'])+"' ")
-    return render_template('viewprofile.html',data=qry)
+    if session['log']=="log":
+        db=Db()
+        qry=db.selectOne("select * from user where user_id='"+str(session['lid'])+"' ")
+        return render_template('viewprofile.html',data=qry)
+    else:
+        return '''<script>alert('you are logged out');window.location="/"</script>'''
 
 @app.route('/home')
 def home():
 
     return render_template('dashboard.html')
 
-
+@app.route('/logout')
+def logout():
+    session['log']==""
+    return redirect('/')
 if __name__ == '__main__':
     app.run()
