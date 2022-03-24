@@ -24,18 +24,19 @@
       <th scope="row">Gender</th>
       <td><label for="textfield6"></label>
         <p>
-          <label>
-            <input type="radio" name="RadioGroup1" value="male" {% if data['gender']=="male" %}checked {%endif%} id="RadioGroup1_0" readonly />
-            male</label>
-          <br />
-          <label>
-            <input type="radio" name="RadioGroup1" value="female" {% if data['gender']=="female" %}checked{%endif%} id="RadioGroup1_1" readonly />
-            female</label>
-          <br />
-          <label>
-            <input type="radio" name="RadioGroup1" value="others"   {% if data['gender']=="others" %}checked{%endif%} id="RadioGroup1_2" readonly />
-            others</label>
-          <br />
+             <input type="text" name="textfield7" id="textfield9" value="{{data['gender'] }}" readonly class="form-control"/></td>
+{#          <label>#}
+{#            <input type="radio" name="RadioGroup1" value="male" {% if data['gender']=="male" %}checked {%endif%} id="RadioGroup1_0" readonly />#}
+{#            male</label>#}
+{#          <br />#}
+{#          <label>#}
+{#            <input type="radio" name="RadioGroup1" value="female" {% if data['gender']=="female" %}checked{%endif%} id="RadioGroup1_1" readonly />#}
+{#            female</label>#}
+{#          <br />#}
+{#          <label>#}
+{#            <input type="radio" name="RadioGroup1" value="others"   {% if data['gender']=="others" %}checked{%endif%} id="RadioGroup1_2" readonly />#}
+{#            others</label>#}
+{#          <br />#}
       </p></td>
     </tr>
     <tr>

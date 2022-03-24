@@ -22,6 +22,7 @@ def login():
             session['name']=values['username']
             session['lid']=uid
             session['log']='log'
+            db.selectOne("select * from User where user)
             return '''<script>alert('login successfully');window.location="/home"</script>'''
         else:
             return '''<script>alert('user not found');window.location="/"</script>'''
@@ -61,16 +62,19 @@ def viewprofile():
         qry=db.selectOne("select * from user where user_id='"+str(session['lid'])+"' ")
         return render_template('viewprofile.html',data=qry)
     else:
-        return '''<script>alert('you are logged out');window.location="/"</script>'''
-
+        # return '''<script>alert('you are logged out');window.location="/"</script>'''
+        return redirect('/')
 @app.route('/home')
 def home():
-
-    return render_template('dashboard.html')
+   if session['log']=='log':
+        return render_template('dashboard.html')
+   else:
+       return redirect('/')
 
 @app.route('/logout')
 def logout():
-    session['log']==""
+    session.clear()
+    session['log']=""
     return redirect('/')
 if __name__ == '__main__':
     app.run()
