@@ -22,7 +22,7 @@ def login():
             session['name']=values['username']
             session['lid']=uid
             session['log']='log'
-            db.selectOne("select * from User where user)
+
             return '''<script>alert('login successfully');window.location="/home"</script>'''
         else:
             return '''<script>alert('user not found');window.location="/"</script>'''
@@ -71,6 +71,15 @@ def home():
    else:
        return redirect('/')
 
+
+@app.route('/upload_image')
+def imageupload():
+        # if request.method == POST:
+        #     Image = request.files['fileField']
+        #     Image.save(r"C:\Users\HP\PycharmProjects\fake_image_detections\static\photo\\" + date + '.jpg')
+        #    path = "/static/photo/" + date + '.jpg'
+        return render_template('upld_img.html')
+
 @app.route('/logout')
 def logout():
     session.clear()
@@ -78,3 +87,5 @@ def logout():
     return redirect('/')
 if __name__ == '__main__':
     app.run()
+
+
