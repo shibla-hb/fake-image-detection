@@ -74,10 +74,7 @@ def home():
 
 @app.route('/upload_image')
 def imageupload():
-        # if request.method == POST:
-        #     Image = request.files['fileField']
-        #     Image.save(r"C:\Users\HP\PycharmProjects\fake_image_detections\static\photo\\" + date + '.jpg')
-        #    path = "/static/photo/" + date + '.jpg'
+
         return render_template('upld_img.html')
 
 @app.route('/logout')

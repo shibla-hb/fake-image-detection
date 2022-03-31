@@ -1,12 +1,19 @@
+{% extends "dashboard.html"%}
+{% block body %}
+
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Untitled Document</title>
 </head>
-
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
 <body>
-<form action="" method="get" enctype="multipart/form-data"><table width="457" border="1">
+
+
+<form action="" method="get" enctype="multipart/form-data">
+    <table width="457" border="1" class="table table-hover">
   <tr>
     <th width="152" scope="col"> Image</th>
     <th width="289" scope="col"><label for="fileField"></label>
@@ -18,5 +25,7 @@
 </table>
 
 </form>
+
 </body>
 </html>
+{% endblock %}
