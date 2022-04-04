@@ -2,6 +2,23 @@ from flask import Flask, render_template, request, session, redirect
 import datetime
 from DBConnection import Db
 
+import numpy as np
+# import matplotlib.pyplot as plt
+np.random.seed(2)
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import confusion_matrix
+from keras.utils.np_utils import to_categorical
+from keras.models import Sequential
+from keras.layers import Dense, Flatten, Conv2D, MaxPool2D, Dropout
+from keras.optimizers import Adam
+from keras.preprocessing.image import ImageDataGenerator
+from keras.callbacks import EarlyStopping
+
+
+from PIL import Image, ImageChops, ImageEnhance
+import os
+import itertools
+
 
 app = Flask(__name__)
 app.secret_key="abc"
@@ -74,7 +91,13 @@ def home():
 
 @app.route('/upload_image')
 def imageupload():
+    def convert_to_ela_image(path, quality):
+        temp_filename = 'temp_file_name.jpg'
+        ela_filename = 'temp_ela.png'
 
+        image = Image.open(path).convert('RGB')
+        image.save(temp_filename, 'JPEG', quality=quality)
+        temp_image = Image.open(temp_filename)
         return render_template('upld_img.html')
 
 @app.route('/logout')
