@@ -3,7 +3,7 @@ import datetime
 from DBConnection import Db
 
 import numpy as np
-# import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 np.random.seed(2)
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix
@@ -95,13 +95,13 @@ def imageupload():
         photo=request.files['filefield']
         date = datetime.datetime.now().strftime("%y%m%d-%H%M%S")
         photo.save(r"C:\Users\HP\PycharmProjects\fake_image_detections\static\upld_images\\" + date + '.jpg')
-        path = "/static/upld_images/" + date + '.jpg'
+        path1 = "/static/upld_images/" + date + '.jpg'
 
         def convert_to_ela_image(path, quality):
             temp_filename = 'temp_file_name.jpg'
             ela_filename = 'temp_ela.png'
 
-            image = Image.open(path).convert('RGB')
+            image = Image.open(path1).convert('RGB')
             image.save(temp_filename, 'JPEG', quality=quality)
             temp_image = Image.open(temp_filename)
 
@@ -117,15 +117,15 @@ def imageupload():
 
             return ela_image
 
-        # real_image_path = r'C:\Users\HP\PycharmProjects\fake_image_detections\static\upld_images'
-        # Image.open(real_image_path)
-        #
-        # convert_to_ela_image(real_image_path, 90)
-        #
-        # fake_image_path = r'C:\Users\IDZ\Downloads\FakeImageDetector_master\casia\CASIA2\Tp\Tp_D_NRN_S_N_ani10171_ani00001_12458.jpg'
-        # Image.open(fake_image_path)
-        #
-        # convert_to_ela_image(fake_image_path, 90)
+        real_image_path = r'C:\Users\HP\PycharmProjects\fake_image_detections\static\upld_images'
+        Image.open(real_image_path)
+
+        convert_to_ela_image(real_image_path, 90)
+
+        fake_image_path = r'C:\Users\IDZ\Downloads\FakeImageDetector_master\casia\CASIA2\Tp\Tp_D_NRN_S_N_ani10171_ani00001_12458.jpg'
+        Image.open(fake_image_path)
+
+        convert_to_ela_image(fake_image_path, 90)
 
         image_size = (128, 128)
 
@@ -177,7 +177,148 @@ def imageupload():
                                         print(len(X_train), len(Y_train))
                                         print(len(X_val), len(Y_val))
 
-        return "ok"
+                                        def build_model():
+                                            model = Sequential()
+                                            model.add(Conv2D(filters=32, kernel_size=(5, 5), padding='valid',
+                                                             activation='relu', input_shape=(128, 128, 3)))
+                                            model.add(Conv2D(filters=32, kernel_size=(5, 5), padding='valid',
+                                                             activation='relu', input_shape=(128, 128, 3)))
+                                            model.add(MaxPool2D(pool_size=(2, 2)))
+                                            model.add(Dropout(0.25))
+                                            model.add(Flatten())
+                                            model.add(Dense(256, activation='relu'))
+                                            model.add(Dropout(0.5))
+                                            model.add(Dense(2, activation='softmax'))
+                                            return model
+
+                                        model = build_model()
+                                        model.summary()
+                                        epochs = 30
+                                        batch_size = 32
+                                        init_lr = 1e-4
+                                        optimizer = Adam(lr=init_lr, decay=init_lr / epochs)
+                                        model.compile(optimizer=optimizer, loss='binary_crossentropy',
+                                                      metrics=['accuracy'])
+                                        early_stopping = EarlyStopping(monitor='val_acc',
+                                                                       min_delta=0,
+                                                                       patience=2,
+                                                                       verbose=0,
+                                                                       mode='auto')
+                                        hist = model.fit(X_train,
+                                                         Y_train,
+                                                         batch_size=batch_size,
+                                                         epochs=epochs,
+                                                         validation_data=(X_val, Y_val),
+                                                         callbacks=[early_stopping])
+                                        model.save(r'C:\Users\IDZ\Downloads\FakeImageDetector_master\model_casia_run1.h5')
+
+                                        fig, ax = plt.subplots(2, 1)
+                                        ax[0].plot(hist.history['loss'], color='b', label="Training loss")
+                                        ax[0].plot(hist.history['val_loss'], color='r', label="validation loss",
+                                                   axes=ax[0])
+                                        legend = ax[0].legend(loc='best', shadow=True)
+
+                                        ax[1].plot(hist.history['accuracy'], color='b', label="Training accuracy")
+                                        ax[1].plot(hist.history['val_accuracy'], color='r', label="Validation accuracy")
+                                        legend = ax[1].legend(loc='best', shadow=True)
+
+                                        def plot_confusion_matrix(cm, classes,
+                                                                  normalize=False,
+                                                                  title='Confusion matrix',
+                                                                  cmap=plt.cm.Blues):
+                                            """
+                                            This function prints and plots the confusion matrix.
+                                            Normalization can be applied by setting `normalize=True`.
+                                            """
+                                            plt.imshow(cm, interpolation='nearest', cmap=cmap)
+                                            plt.title(title)
+                                            plt.colorbar()
+                                            tick_marks = np.arange(len(classes))
+                                            plt.xticks(tick_marks, classes, rotation=45)
+                                            plt.yticks(tick_marks, classes)
+
+                                            if normalize:
+                                                cm = cm.astype('float') / cm.sum(axis=1)[:, np.newaxis]
+
+                                            thresh = cm.max() / 2.
+                                            for i, j in itertools.product(range(cm.shape[0]), range(cm.shape[1])):
+                                                plt.text(j, i, cm[i, j],
+                                                         horizontalalignment="center",
+                                                         color="white" if cm[i, j] > thresh else "black")
+                                            plt.tight_layout()
+                                            plt.ylabel('True label')
+                                            plt.xlabel('Predicted label')
+
+                                            # Predict the values from the validation dataset
+                                            Y_pred = model.predict(X_val)
+                                            # Convert predictions classes to one hot vectors
+                                            Y_pred_classes = np.argmax(Y_pred, axis=1)
+                                            # Convert validation observations to one hot vectors
+                                            Y_true = np.argmax(Y_val, axis=1)
+                                            # compute the confusion matrix
+                                            confusion_mtx = confusion_matrix(Y_true, Y_pred_classes)
+                                            # plot the confusion matrix
+                                            plot_confusion_matrix(confusion_mtx, classes=range(2))
+
+                                            class_names = ['fake', 'real']
+                                            real_image_path = r'C:\Users\IDZ\Downloads\FakeImageDetector_master\casia\CASIA2\Au\Au_ani_00001.jpg'
+                                            image = prepare_image(real_image_path)
+                                            image = image.reshape(-1, 128, 128, 3)
+                                            y_pred = model.predict(image)
+                                            y_pred_class = np.argmax(y_pred, axis=1)[0]
+                                            print(f'Class: {class_names[y_pred_class]} Confidence: {np.amax(y_pred) * 100:0.2f}')
+
+                                            fake_image_path = r'C:\Users\IDZ\Downloads\FakeImageDetector_master\casia\CASIA2\Tp\Tp_D_NRN_S_N_ani10171_ani00001_12458.jpg'
+                                            image = prepare_image(fake_image_path)
+                                            image = image.reshape(-1, 128, 128, 3)
+                                            y_pred = model.predict(image)
+                                            y_pred_class = np.argmax(y_pred, axis=1)[0]
+                                            print(f'Class: {class_names[y_pred_class]} Confidence: {np.amax(y_pred) * 100:0.2f}')
+
+                                            fake_image = os.listdi(r'C:\Users\IDZ\Downloads\FakeImageDetector_master\casia\CASIA2\Tp\\')
+                                            correct = 0
+                                            total = 0
+                                            for file_name in fake_image:
+                                                if file_name.endswith('jpg') or filename.endswith('png'):
+                                                    fake_image_path = os.path.join(
+                                                        r'C:\Users\IDZ\Downloads\FakeImageDetector_master\casia\CASIA2\Tp\\',
+                                                        file_name)
+                                                    image = prepare_image(fake_image_path)
+                                                    image = image.reshape(-1, 128, 128, 3)
+                                                    y_pred = model.predict(image)
+                                                    y_pred_class = np.argmax(y_pred, axis=1)[0]
+                                                    total += 1
+                                                    if y_pred_class == 0:
+                                                        correct += 1
+                                                        #             print(f'Class: {class_names[y_pred_class]} Confidence: {np.amax(y_pred) * 100:0.2f}')
+
+                                                        print(f'Total: {total}, Correct: {correct}, Acc: {correct / total * 100.0}')
+                                                        real_image = os.listdir(r'C:\Users\IDZ\Downloads\FakeImageDetector_master\casia\CASIA2\Au\\')
+                                                        correct_r = 0
+                                                        total_r = 0
+
+                                                        for file_name in real_image:
+                                                            if file_name.endswith('jpg') or filename.endswith('png'):
+                                                                real_image_path = os.path.join(
+                                                                    r'C:\Users\IDZ\Downloads\FakeImageDetector_master\casia\CASIA2\Au\\',
+                                                                    file_name)
+                                                                image = prepare_image(real_image_path)
+                                                                image = image.reshape(-1, 128, 128, 3)
+                                                                y_pred = model.predict(image)
+                                                                y_pred_class = np.argmax(y_pred, axis=1)[0]
+                                                                total_r += 1
+                                                                if y_pred_class == 1:
+                                                                    correct_r += 1
+                                                                    #             print(f'Class: {class_names[y_pred_class]} Confidence: {np.amax(y_pred) * 100:0.2f}')
+
+                                                                    correct += correct_r
+                                                                    total += total_r
+                                                                    print(
+                                                                        f'Total: {total_r}, Correct: {correct_r}, Acc: {correct_r / total_r * 100.0}')
+                                                                    print(
+                                                                        f'Total: {total}, Correct: {correct}, Acc: {correct / total * 100.0}')
+
+        # return "ok"
 
 
 

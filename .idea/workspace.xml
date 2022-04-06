@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b300fe04-0650-4db6-89dd-5d0b0732f1a8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/upld_images/220406-091226.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/upld_images/220406-094112.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/upld_images/220406-095124.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/upld_images/220406-095300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/upld_images/220406-095913.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/upld_images/220406-100011.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fake_image_detections.py" afterPath="$PROJECT_DIR$/fake_image_detections.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/dashboard.html" afterPath="$PROJECT_DIR$/templates/dashboard.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/upld_img.html" afterPath="$PROJECT_DIR$/templates/upld_img.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,22 +23,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/fake_image_detections$fake_image_detections.coverage" NAME="fake_image_detections Coverage Results" MODIFIED="1649132709835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/fake_image_detections$fake_image_detections.coverage" NAME="fake_image_detections Coverage Results" MODIFIED="1649219781280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="fake_image_detections.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fake_image_detections.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fake_image_detections.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="177" column="69" lean-forward="false" selection-start-line="177" selection-start-column="69" selection-end-line="177" selection-end-column="69" />
+            <state relative-caret-position="21">
+              <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
               <folding>
                 <element signature="e#0#68#0" expanded="true" />
-                <marker date="1649132709806" expanded="true" signature="1077:1124" ph="select * fro... user" />
-                <marker date="1649132709806" expanded="true" signature="2379:2442" ph="insert into login... " />
-                <marker date="1649132709806" expanded="true" signature="2467:2609" ph="insert into user... " />
-                <marker date="1649132709806" expanded="true" signature="2974:3032" ph="select * fro... user" />
+                <marker date="1649219386874" expanded="true" signature="1075:1122" ph="select * fro... user" />
+                <marker date="1649219386874" expanded="true" signature="2377:2440" ph="insert into login... " />
+                <marker date="1649219386874" expanded="true" signature="2465:2607" ph="insert into user... " />
+                <marker date="1649219386874" expanded="true" signature="2972:3030" ph="select * fro... user" />
               </folding>
             </state>
           </provider>
@@ -56,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="upld_img.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="upld_img.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/upld_img.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+            <state relative-caret-position="460">
+              <caret line="29" column="123" lean-forward="false" selection-start-line="29" selection-start-column="123" selection-end-line="29" selection-end-column="123" />
               <folding />
             </state>
           </provider>
@@ -184,8 +189,8 @@
         <option value="$PROJECT_DIR$/templates/imgupld2.html" />
         <option value="$PROJECT_DIR$/static/imgupld/style.css" />
         <option value="$PROJECT_DIR$/templates/dashboard.html" />
-        <option value="$PROJECT_DIR$/templates/upld_img.html" />
         <option value="$PROJECT_DIR$/fake_image_detections.py" />
+        <option value="$PROJECT_DIR$/templates/upld_img.html" />
       </list>
     </option>
   </component>
@@ -217,6 +222,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -313,7 +319,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -536,8 +541,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1918" height="1018" extended-state="1" />
-    <editor active="true" />
+    <frame x="1" y="1" width="1918" height="1018" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18157895" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -545,7 +549,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34619752" sideWeight="0.91842103" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34619752" sideWeight="0.91842103" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -612,10 +616,10 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#68#0" expanded="true" />
-            <marker date="1649132709806" expanded="true" signature="1077:1124" ph="select * fro... user" />
-            <marker date="1649132709806" expanded="true" signature="2379:2442" ph="insert into login... " />
-            <marker date="1649132709806" expanded="true" signature="2467:2609" ph="insert into user... " />
-            <marker date="1649132709806" expanded="true" signature="2974:3032" ph="select * fro... user" />
+            <marker date="1649219386874" expanded="true" signature="1075:1122" ph="select * fro... user" />
+            <marker date="1649219386874" expanded="true" signature="2377:2440" ph="insert into login... " />
+            <marker date="1649219386874" expanded="true" signature="2465:2607" ph="insert into user... " />
+            <marker date="1649219386874" expanded="true" signature="2972:3030" ph="select * fro... user" />
           </folding>
         </state>
       </provider>
@@ -748,7 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -809,14 +812,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/upld_img.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/upld_images/220405-094343.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -824,15 +819,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fake_image_detections.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="177" column="69" lean-forward="false" selection-start-line="177" selection-start-column="69" selection-end-line="177" selection-end-column="69" />
+        <state relative-caret-position="21">
+          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
           <folding>
             <element signature="e#0#68#0" expanded="true" />
-            <marker date="1649132709806" expanded="true" signature="1077:1124" ph="select * fro... user" />
-            <marker date="1649132709806" expanded="true" signature="2379:2442" ph="insert into login... " />
-            <marker date="1649132709806" expanded="true" signature="2467:2609" ph="insert into user... " />
-            <marker date="1649132709806" expanded="true" signature="2974:3032" ph="select * fro... user" />
+            <marker date="1649219386874" expanded="true" signature="1075:1122" ph="select * fro... user" />
+            <marker date="1649219386874" expanded="true" signature="2377:2440" ph="insert into login... " />
+            <marker date="1649219386874" expanded="true" signature="2465:2607" ph="insert into user... " />
+            <marker date="1649219386874" expanded="true" signature="2972:3030" ph="select * fro... user" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/upld_img.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="29" column="123" lean-forward="false" selection-start-line="29" selection-start-column="123" selection-end-line="29" selection-end-column="123" />
+          <folding />
         </state>
       </provider>
     </entry>
