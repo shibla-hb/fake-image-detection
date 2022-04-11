@@ -93,15 +93,16 @@ def home():
 def imageupload():
     if request.method=="POST":
         photo=request.files['filefield']
-        date = datetime.datetime.now().strftime("%y%m%d-%H%M%S")
-        photo.save(r"C:\Users\HP\PycharmProjects\fake_image_detections\static\upld_images\\" + date + '.jpg')
-        path1 = "/static/upld_images/" + date + '.jpg'
+        # date = datetime.datetime.now().strftime("%y%m%d-%H%M%S")
+        # photo.save(r"C:\Users\HP\PycharmProjects\fake_image_detections\static\upld_images\\" + date + '.jpg')
+        # path1 = "/static/upld_images/" + date + '.jpg'
+        path=r'C:\Users\HP\PycharmProjects\fake_image_detections\static\casia\CASIA2\Au\\'
 
         def convert_to_ela_image(path, quality):
             temp_filename = 'temp_file_name.jpg'
             ela_filename = 'temp_ela.png'
 
-            image = Image.open(path1).convert('RGB')
+            image = Image.open(path).convert('RGB')
             image.save(temp_filename, 'JPEG', quality=quality)
             temp_image = Image.open(temp_filename)
 
@@ -117,12 +118,12 @@ def imageupload():
 
             return ela_image
 
-        real_image_path = r'C:\Users\HP\PycharmProjects\fake_image_detections\static\upld_images'
+        real_image_path = r'C:\Users\HP\PycharmProjects\fake_image_detections\static\casia\CASIA2\Au\Au_ani_00001.jpg'
         Image.open(real_image_path)
 
         convert_to_ela_image(real_image_path, 90)
 
-        fake_image_path = r'C:\Users\IDZ\Downloads\FakeImageDetector_master\casia\CASIA2\Tp\Tp_D_NRN_S_N_ani10171_ani00001_12458.jpg'
+        fake_image_path = r'C:\Users\HP\PycharmProjects\fake_image_detections\static\casia\CASIA2\Tp\Tp_D_NRN_S_N_ani10171_ani00001_12458.jpg'
         Image.open(fake_image_path)
 
         convert_to_ela_image(fake_image_path, 90)
@@ -136,7 +137,7 @@ def imageupload():
         Y = [] #0 for fake, 1 for real
 
         import random
-        path = r'C:\Users\IDZ\Downloads\FakeImageDetector_master\casia\CASIA2\Au\\'
+        path = r'C:\Users\HP\PycharmProjects\fake_image_detections\static\casia\CASIA2\Au\\'
         for dirname, _, filenames in os.walk(path):
             for filename in filenames:
                 if filename.endswith('jpg') or filename.endswith('png'):
@@ -156,7 +157,7 @@ def imageupload():
                         print(len(X_train), len(Y_train))
                         print(len(X_val), len(Y_val))
 
-                        path = r'C:\Users\IDZ\Downloads\FakeImageDetector_master\casia\CASIA2\Tp\\'
+                        path = r'C:\Users\HP\PycharmProjects\fake_image_detections\static\casia\CASIA2\Tp\\'
                         for dirname, _, filenames in os.walk(path):
                             for filename in filenames:
                                 if filename.endswith('jpg') or filename.endswith('png'):
@@ -210,7 +211,7 @@ def imageupload():
                                                          epochs=epochs,
                                                          validation_data=(X_val, Y_val),
                                                          callbacks=[early_stopping])
-                                        model.save(r'C:\Users\IDZ\Downloads\FakeImageDetector_master\model_casia_run1.h5')
+                                        model.save(r'C:\Users\HP\PycharmProjects\fake_image_detections\model_casia_run1.h5')
 
                                         fig, ax = plt.subplots(2, 1)
                                         ax[0].plot(hist.history['loss'], color='b', label="Training loss")
@@ -261,27 +262,27 @@ def imageupload():
                                             plot_confusion_matrix(confusion_mtx, classes=range(2))
 
                                             class_names = ['fake', 'real']
-                                            real_image_path = r'C:\Users\IDZ\Downloads\FakeImageDetector_master\casia\CASIA2\Au\Au_ani_00001.jpg'
+                                            real_image_path = r'C:\Users\HP\PycharmProjects\fake_image_detections\static\casia\CASIA2\Au\Au_ani_00001.jpg'
                                             image = prepare_image(real_image_path)
                                             image = image.reshape(-1, 128, 128, 3)
                                             y_pred = model.predict(image)
                                             y_pred_class = np.argmax(y_pred, axis=1)[0]
                                             print(f'Class: {class_names[y_pred_class]} Confidence: {np.amax(y_pred) * 100:0.2f}')
 
-                                            fake_image_path = r'C:\Users\IDZ\Downloads\FakeImageDetector_master\casia\CASIA2\Tp\Tp_D_NRN_S_N_ani10171_ani00001_12458.jpg'
+                                            fake_image_path = r'C:\Users\HP\PycharmProjects\fake_image_detections\static\casia\CASIA2\Tp\Tp_D_NRN_S_N_ani10171_ani00001_12458.jpg'
                                             image = prepare_image(fake_image_path)
                                             image = image.reshape(-1, 128, 128, 3)
                                             y_pred = model.predict(image)
                                             y_pred_class = np.argmax(y_pred, axis=1)[0]
                                             print(f'Class: {class_names[y_pred_class]} Confidence: {np.amax(y_pred) * 100:0.2f}')
 
-                                            fake_image = os.listdi(r'C:\Users\IDZ\Downloads\FakeImageDetector_master\casia\CASIA2\Tp\\')
+                                            fake_image = os.listdi(r'C:\Users\HP\PycharmProjects\fake_image_detections\static\casia\CASIA2\Tp\\')
                                             correct = 0
                                             total = 0
                                             for file_name in fake_image:
                                                 if file_name.endswith('jpg') or filename.endswith('png'):
                                                     fake_image_path = os.path.join(
-                                                        r'C:\Users\IDZ\Downloads\FakeImageDetector_master\casia\CASIA2\Tp\\',
+                                                        r'C:\Users\HP\PycharmProjects\fake_image_detections\static\casia\CASIA2\Tp\\',
                                                         file_name)
                                                     image = prepare_image(fake_image_path)
                                                     image = image.reshape(-1, 128, 128, 3)
@@ -293,14 +294,14 @@ def imageupload():
                                                         #             print(f'Class: {class_names[y_pred_class]} Confidence: {np.amax(y_pred) * 100:0.2f}')
 
                                                         print(f'Total: {total}, Correct: {correct}, Acc: {correct / total * 100.0}')
-                                                        real_image = os.listdir(r'C:\Users\IDZ\Downloads\FakeImageDetector_master\casia\CASIA2\Au\\')
+                                                        real_image = os.listdir(r'C:\Users\HP\PycharmProjects\fake_image_detections\static\casia\CASIA2\Au\\')
                                                         correct_r = 0
                                                         total_r = 0
 
                                                         for file_name in real_image:
                                                             if file_name.endswith('jpg') or filename.endswith('png'):
                                                                 real_image_path = os.path.join(
-                                                                    r'C:\Users\IDZ\Downloads\FakeImageDetector_master\casia\CASIA2\Au\\',
+                                                                    r'C:\Users\HP\PycharmProjects\fake_image_detections\static\casia\CASIA2\Au\\',
                                                                     file_name)
                                                                 image = prepare_image(real_image_path)
                                                                 image = image.reshape(-1, 128, 128, 3)
